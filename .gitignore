@@ -5,13 +5,13 @@ node_modules/
 dist/
 *.tsbuildinfo
 
-# Local env
+# Local env / secrets
 *.local
 .env
 .env.*
 !.env.example
 
-# Vercel
+# Vercel local project metadata
 .vercel/
 
 # Editor / OS

@@ -9,9 +9,9 @@
 
 ## Live Demo
 
-Production deployment: **coming online during release**
+Production deployment: **https://voxelcraft-aurora-realms.vercel.app**
 
-This README is updated with the stable Vercel URL after deployment.
+GitHub repository: **https://github.com/carlomigueldy/voxelcraft-aurora-realms**
 
 ## Overview
 
@@ -147,7 +147,7 @@ Deploy manually with:
 pnpm dlx vercel@latest deploy --prod
 ```
 
-Vercel auto-detects this as a Vite static app and serves the compiled `dist/` output.
+Vercel auto-detects this as a Vite static app and serves the compiled `dist/` output. The current production alias is **https://voxelcraft-aurora-realms.vercel.app**.
 
 ## Verification Evidence
 
